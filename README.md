@@ -32,7 +32,6 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
@@ -96,6 +95,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3C7B48,0d1a0f&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*"Serei grande, muito muito grande."* 
+*":)"* 
 
 </div>
