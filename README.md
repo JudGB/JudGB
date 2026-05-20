@@ -1,9 +1,9 @@
-# Olá! Eu sou o Judson Gabriel 👋
+# Opa, sou Judson Gabriel 👋
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-self-rho-15.vercel.app/api?username=JudGB&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=3C7B48&icon_color=3C7B48&border_color=555555)
-![Most Used Languages](https://github-readme-stats-lkmx97y6s.vercel.app/api/top-langs/?username=JudGB&layout=compact&theme=dark&title_color=3C7B48&border_color=555555)
+![Most Used Languages](https://github-readme-stats-self-rho-15.vercel.app/api/top-langs/?username=JudGB&layout=compact&theme=dark&title_color=3C7B48&border_color=555555)
 
 </div>
 
@@ -33,4 +33,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judson-ferreira-311169286/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/judson.jgf/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-3C7B48?style=for-the-badge&logo=google-chrome&logoColor=white)](https://judgb.github.io/Meu-Portifolio/)
