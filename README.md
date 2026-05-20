@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-lkmx97y6s.vercel.app/api?username=JudGB&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=3C7B48&icon_color=3C7B48&border_color=555555&hide_border=false)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JudGB&layout=compact&theme=dark&title_color=3C7B48&border_color=555555&hide_border=false)
+![GitHub Stats](https://github-readme-stats-lkmx97y6s.vercel.app/api?username=JudGB&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=3C7B48&icon_color=3C7B48&border_color=555555)
+![Most Used Languages](https://github-readme-stats-lkmx97y6s.vercel.app/api/top-langs/?username=JudGB&layout=compact&theme=dark&title_color=3C7B48&border_color=555555)
 
 </div>
 
