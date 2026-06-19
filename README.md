@@ -14,12 +14,13 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/1pA8TwX8atOCnAtTbV/giphy.gif" width="180px"/>
+
 
 ### 👋 Sobre mim
 
-- 🕹️ Programador de jogos indies e Game Designer
-- 💻 Entusiasta de **C++**, **Unity** e **GameMaker**
+
+- 🕹️ Programo alguns projetos e jogos
+- 💻 Entusiasta de **Python** e **GameMaker**
 - 🌱 Sempre aprendendo e construindo coisas novas
 
 <br clear="right"/>
@@ -28,16 +29,15 @@
 
 ---
 
-### 🛠️ Tecnologias que uso
+### Tecnologias que uso
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 </div>
 
@@ -64,14 +64,12 @@
 
 ---
 
-### 🎮 Projetos em Destaque
+### Projetos em Destaque
 
 <div align="center">
 
-| 🐉 Projeto | 🛠️ Engine | 📝 Descrição |
-|-----------|----------|-------------|
-| **Run! Doctor Need Help** | GameMaker Studio 2 | Jogo educativo sobre tipos sanguíneos |
-| **Arrows Running** | GameMaker | Jogo de GameJam — você é uma flecha! |
+|---------------- EM CONSTRUÇÂO ------------------|
+
 
 </div>
 
@@ -81,7 +79,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judson-ferreira-311169286/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/judson-gabriel-311169286)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/judson.jgf/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3C7B48?style=for-the-badge&logo=google-chrome&logoColor=white)](https://judgb.github.io/Meu-Portifolio/)
 
