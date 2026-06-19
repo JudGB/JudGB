@@ -79,7 +79,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/judson-gabriel-311169286)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judson-gabriel-311169286)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/judson.jgf/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3C7B48?style=for-the-badge&logo=google-chrome&logoColor=white)](https://judgb.github.io/Meu-Portifolio/)
 
