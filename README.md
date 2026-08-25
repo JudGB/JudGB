@@ -1,18 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1a0f,3C7B48&height=200&section=header&text=Judson%20Gabriel&fontSize=52&fontColor=c8e6c9&fontAlignY=38&desc=Programmer%20%E2%9C%A6%20Game%20Designer&descSize=18&descAlignY=62&descColor=69b578&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1a0f,3C7B48&height=200&section=header&text=Judson%20Gabriel&fontSize=52&fontColor=c8e6c9&fontAlignY=38&desc=%20%E2%9C%A6%20%20Programmer%20%E2%9C%A6%20%20&descSize=18&descAlignY=62&descColor=69b578&animation=fadeIn" width="100%"/>
 
 </div>
-
----
-
-<div align="center">
-
-### "Eu não o matei porque ele estava apavorado como eu estava... Quando olhei para ele, eu me vi."
-
-</div>
-
----
 
 
 
@@ -20,7 +10,8 @@
 
 
 - 🕹️ Programo alguns projetos e jogos
-- 💻 Entusiasta de **Python** e **GameMaker**
+- 💻 Formado como técnico em informática
+- ​📚 Estudante de Ciência da computação
 - 🌱 Sempre aprendendo e construindo coisas novas
 
 <br clear="right"/>
@@ -43,7 +34,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 
 
@@ -60,9 +51,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JudGB&theme=dark&background=0d1a0f&border=1c2a1e&ring=3C7B48&fire=69b578&currStreakLabel=c8e6c9&sideLabels=c8e6c9&dates=69b578&currStreakNum=3C7B48&sideNums=3C7B48)
 
-</div>
+</div>-->
 
----
+
 
 ### Projetos em Destaque
 
