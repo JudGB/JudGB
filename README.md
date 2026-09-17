@@ -20,7 +20,7 @@
 
 ---
 
-### Tecnologias que uso
+### 💻 Tecnologias que uso
 
 <div align="center">
 
@@ -49,15 +49,15 @@
 
 ---
 
-### Projetos em Destaque
+### 💼 Projetos em Destaque
 
 <div align="center">
 
 | Projeto | Descrição | Tecnologia | Repositório / Link |
 | :--- | :--- | :---: | :---: |
-| **flapping of wings** | Jogo experimental de terror psicológico baseado em texto que interage de forma misteriosa com arquivos locais do sistema. | **GML** (GameMaker) | [🎮 Jogar / Ver Código](https://github.com) |
-| **PY_Dashboard** | Painel estatístico completo para análise e higienização automática de dados de turmas estudantis. | **Python** / Pandas | [📈 Acessar Dashboard](https://github.com) |
-| **Meu Portfólio** | Página pessoal centralizada construída para expor meus projetos atuais, contatos e evolução no desenvolvimento Front-end. | **HTML5** / CSS3 / JS | [🌐 Ver Online](https://github.io) |
+| **flapping of wings** | Jogo experimental de terror psicológico baseado em texto que interage de forma misteriosa com arquivos locais do sistema. | **GML** (GameMaker) | [🎮 Jogar / Ver Código](https://github.com/JudGB/flapping-of-wings) |
+| **PY_Dashboard** | Painel estatístico completo para análise e higienização automática de dados de turmas estudantis. | **Python** / Pandas | [📈 Acessar Dashboard](https://colab.research.google.com/drive/11U8AtHcM4lbmJB8V-Bos930ge0QuRHRr?usp=sharing) |
+| **Meu Portfólio** | Página pessoal centralizada construída para expor meus projetos atuais, contatos e evolução no desenvolvimento Front-end. | **HTML5** / CSS3 / JS | [🌐 Ver Online](https://judportifolio.netlify.app/) |
 
 </div>
 
@@ -69,7 +69,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judson-gabriel-311169286)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/judson.jgf/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3C7B48?style=for-the-badge&logo=google-chrome&logoColor=white)](https://judgb.github.io/Meu-Portifolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3C7B48?style=for-the-badge&logo=google-chrome&logoColor=white)](https://judportifolio.netlify.app/)
 
 </div>
 
