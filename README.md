@@ -4,7 +4,7 @@
 
 </div>
 
-
+---
 
 ### 👋 Sobre mim
 
@@ -47,20 +47,17 @@
 
 <br clear="left"/>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JudGB&theme=dark&background=0d1a0f&border=1c2a1e&ring=3C7B48&fire=69b578&currStreakLabel=c8e6c9&sideLabels=c8e6c9&dates=69b578&currStreakNum=3C7B48&sideNums=3C7B48)
-
-</div>
-
-
+---
 
 ### Projetos em Destaque
 
 <div align="center">
 
-|---------------- EM CONSTRUÇÂO ------------------|
-
+| Projeto | Descrição | Tecnologia | Repositório / Link |
+| :--- | :--- | :---: | :---: |
+| **flapping of wings** | Jogo experimental de terror psicológico baseado em texto que interage de forma misteriosa com arquivos locais do sistema. | **GML** (GameMaker) | [🎮 Jogar / Ver Código](https://github.com) |
+| **PY_Dashboard** | Painel estatístico completo para análise e higienização automática de dados de turmas estudantis. | **Python** / Pandas | [📈 Acessar Dashboard](https://github.com) |
+| **Meu Portfólio** | Página pessoal centralizada construída para expor meus projetos atuais, contatos e evolução no desenvolvimento Front-end. | **HTML5** / CSS3 / JS | [🌐 Ver Online](https://github.io) |
 
 </div>
 
