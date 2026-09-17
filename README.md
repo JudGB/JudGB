@@ -34,7 +34,7 @@
 
 ---
 
-<!--### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 
 
@@ -51,7 +51,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JudGB&theme=dark&background=0d1a0f&border=1c2a1e&ring=3C7B48&fire=69b578&currStreakLabel=c8e6c9&sideLabels=c8e6c9&dates=69b578&currStreakNum=3C7B48&sideNums=3C7B48)
 
-</div>-->
+</div>
 
 
 
